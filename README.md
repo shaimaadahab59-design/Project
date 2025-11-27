@@ -10,19 +10,19 @@ This document provides an overview of the manual and automation testing efforts 
 
 ## Manual Testing Summary:
 Our manual testing efforts are managed using Jira for tracking and reporting.
-Test Case Statistics:
-Total Test Cases 110
-Test Cases Passed 90
-Test Cases Failed 20
+## Test Case Statistics:
+*Total Test Cases 110
+*Test Cases Passed 90
+*Test Cases Failed 20
 Bug Tracking
-​Total Reported Bugs: 20
+*​Total Reported Bugs: 20
 
 ## Automation Testing Details:
-​Scope and Functionality
-​The current automation efforts are focused on verifying key functionalities of the OrangeHRM application. The goal is to ensure the core features remain stable across releases.
-​Technology Stack
-​The automation framework is built using the following technologies:
-​Programming Language: Java
-​Web Automation Tool: Selenium
-​Build Automation Tool: Maven
-​Testing Framework: TestNG
+*​Scope and Functionality
+*​The current automation efforts are focused on verifying key functionalities of the OrangeHRM application. The goal is to ensure the core features remain stable across releases.
+*​Technology Stack
+## ​The automation framework is built using the following technologies:
+*​Programming Language: Java
+*​Web Automation Tool: Selenium
+*​Build Automation Tool: Maven
+*​Testing Framework: TestNG
